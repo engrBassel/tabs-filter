@@ -1,2 +1,3 @@
-# tabs-filter
-This repo contains tabs filter using HTML, CSS, JavaScript.
+# Tabs Filter
+- This repo contains tabs filter.
+- Using HTML, CSS, JavaScript.
